@@ -1,0 +1,19 @@
+# FORK ME or copy the code!  Please don't request edit access. This is the original so it needs to stay undedited for all users.
+
+# Task1 - Add comments to the code to predict the output on lines 9, 10 and 14
+name1 = "Ross"
+name2 = "Monica"
+name3 = "Joey"
+name4 = "Rachel"
+name5 = "Chandler"
+print(name1 + " and " + name4)
+print(name3)
+
+name3 = "Phoebe"
+
+print(name3)
+
+# Task 2 - Create a variable that stores the number 20.  Output the variable.  Multiply the variable by 10.  Output the variable.
+
+
+# Task 3 - Write a program that uses variables & decrements to output a countdown from 10 to 0.
