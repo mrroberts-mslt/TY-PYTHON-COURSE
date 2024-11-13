@@ -19,7 +19,7 @@ name2 = "Slash"
 #This line uses concatenation to join the variables together with the string 'and' to make a sentence.
 
 #Complete the line to output all of the variables 
-print(name1 + " and " + name2 + " and " + " and " + name3)
+print(name1 + " and " + name2 + " and ")
 
 
 
