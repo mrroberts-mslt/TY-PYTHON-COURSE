@@ -1,16 +1,15 @@
 # Task - Predict and Run
 #This is a comment. The computer ignores it. It's just here to give us humans a clue about what the code does.
-#Task 1 - Add a comment on the line above the 'print' command to predict what the code on line 8 will do.
+#Task 1 - Add a comment on the line above the 'print' command to predict what the code on line 5 will do.
 
 print("Hello World!")
-print("Hello world")
 
-# Task 2 Investigate
+
+# Task 2 FIX THE ERRORS
 # What would the output of the code print("I love Computing") be?
-print("I love Computing")
-# What would happen if the code print("I love Comping") was run?
-print("I love Comping")
-# What would happen if the code print("I love Computing" was run?
+print("I love Computing"
+print(I love Computing)
+Print("I love Computing")
 
 # Task 3 Modify
 # Reuse the code to output your own message. Add comments to show what it does.
