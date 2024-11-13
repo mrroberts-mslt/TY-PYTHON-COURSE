@@ -1,5 +1,4 @@
-# FORK ME or copy the code!  Please don't request edit access. This is the original so it needs to stay undedited for all users.
-
+#COPY THE CODE
 # Task 1
 
 # Add comments to the code to explain:
