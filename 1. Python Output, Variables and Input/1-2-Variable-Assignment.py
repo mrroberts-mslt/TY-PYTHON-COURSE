@@ -5,7 +5,7 @@ name = "Axl"
 
 print(name)
 
-#Extra question - why isn't 'name' in speech marks on line 5?
+#Extra question - why isn't 'name' in speech marks on line 4?
 
 #Task 2 - Concatenation
 
