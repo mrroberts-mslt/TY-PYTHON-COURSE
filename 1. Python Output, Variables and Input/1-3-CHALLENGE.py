@@ -1,4 +1,4 @@
-# FORK ME or copy the code!  Please don't request edit access. This is the original so it needs to stay undedited for all users.
+# COPY THE CODE
 
 #Assign your name and your favourite food to 2 separate variables with suitable names.
 
