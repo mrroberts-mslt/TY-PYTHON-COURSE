@@ -4,13 +4,13 @@
  # 1. Add comments to explain the overall job of the program.
  # 2. Add comments to the code to explain the circumstances that would produce each output
 
-num1 = int(input("Enter a number"))
-num2 = int(input("Enter another number"))
+num1 = int(input("Enter a number: "))
+num2 = int(input("Enter another number: "))
 
 if num1 > num2:
-  print (str(num1) + " is bigger.")
+  print (num1, " is bigger.")
 elif num1 < num2:
-  print (str(num2) + " is bigger")
+  print (num2, " is bigger")
 else:
   print("The numbers are the same")
 
